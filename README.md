@@ -2,6 +2,6 @@
 
 Data cleaning, exploration and visualization
 
-Build a scoring metric to determinate potentiel countries for online courses
+Build a scoring metric to determine potentiel countries for deploying online course service
 
 Datasource: https://datacatalog.worldbank.org/dataset/education-statistics
